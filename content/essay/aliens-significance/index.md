@@ -36,29 +36,26 @@ The medium _is_ the message.
 
 I don't care about aliens or answering the question "Are _they_ real?"
 I care about people;
-The profound effect an alien abduction on had the people, who believe it
+The profound effect an alien abduction had on the people, who believe it
 happened to them –
 how it dramatically altered their lives for the better –
 and the effect that investigating this phenomenon had on me.
-It has compelled me to elevate my consciousness and to fight for and look
-after our planet.
+It has compelled me to elevate my consciousness and to look after our planet.
 
 **For your study**
+
+Besides the mentioned alien abductions, there is also Ufology, the study of the UFO Phenomenon.
+I compare them by insights to that could be gleamed:
+- **Ufology**: _they_ are here
+- **Alien abductions**: _they_ are here and this is what _they_ want
+
+Thus I discard Ufology, as lacks the transformative potential for the individual
+and is dominated by the distracting narrative that "the government is lying to us."
+See the documentary [<cite>The Phenomenon</cite>](https://www.imdb.com/title/tt13095604) for an intro.
 
 If you want to look into the topic yourself, I would recommend John Mack.
 He has a sober, scientific style and approaches the material with an open
 mind, but not as a true believer.
-A [primer](https://www.youtube.com/watch?v=L9SJUowifik).
+[This video](https://www.youtube.com/watch?v=L9SJUowifik) is a great primer.
 His work [<cite>Abductions</cite>](https://amzn.to/40F2YQ1) details the raw experiences of Abductees.
 In [<cite>Passport to the Cosmos</cite>](https://amzn.to/3Chw9PS) he describes the themes that continuously come up in abductions.
-
-There is also Ufology, the study of the UFO Phenomenon.
-In comparison I see these insights to be gained:
-- **Ufology**: _they_ are here
-- **Alien abductions**: _they_ are here and this is what _they_ want
-
-Ufology lacks the transformative potential for the individual and is
-dominated by the distracting narrative that "the government is lying to us."
-What it is good for, is to give you some evidence to the point that "_they_
-are here."
-Start with the documentary [<cite>The Phenomenon</cite>](https://www.imdb.com/title/tt13095604).
