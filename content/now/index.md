@@ -13,8 +13,7 @@ See also: [about me](about)_
 </sub>
 
 I'm still happily living in rural [south Brandenburg][ee] with my wife.
-Three days a week I work as a backend developer at a [software agency](https://www.endava.com).
-I'm open to new employment or freelancing options.
+I currently do not work and am planning next steps.
 
 ## Active Projects
 
