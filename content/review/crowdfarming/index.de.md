@@ -155,9 +155,14 @@ Jetzt geht das theoretisch in der Bestellung:
 {{<figure src="./liefertermin.png" class="w-6/12" alt="Auswahl eines Liefertermins">}}
 
 Ich sage theoretisch, weil man praktisch nicht immer diese Option hat.
-Oft waren frühere Termine nicht möglich, oder in anderen Fällen, hatte ich gar nicht die Option einen späteren Zeitpunkt zu wählen.
-In der DHL App kann man Liefertag anpassen.
+Erstens geht es erst nachdem die Bestellung erstellt wurde.
+Das ist ein paar Tage vor Erntedatum, nach welchem man den Zeitpunkt nicht mehr ändern kann.
+Der Rahmen zur Änderung ist kurz und man muss da hinterher sein, besonders wenn es mehrere Accounts betrifft.
+Und wenn man dann den Termin wählen kann gibt es keine früheren Termine und teilweise selbst keine späteren.
+
+In der DHL App kann man noch den Liefertag anpassen.
 Lange will man das Obst aber auch nicht bei DHL rum stehen haben.
+Besonders im Sommer ist kein Option.
 
 Ich führe eine Liste mit den Lieferdaten um den Überblick zu behalten.
 (Da liste ich generell alle meine Pakete.)
