@@ -89,8 +89,10 @@ Install the relevant programs for the usage:
 yay -S pass pinentry
 ```
 
-Add the mail server password to pass:
+Initialize and add the mail server password to pass:
 ```sh
+export PASSWORD_STORE_DIR="$XDG_DATA_HOME"/pass # in .zshrc/.bashrc
+pass init GPGKEYID
 pass add jneidel@jneidel.de
 ```
 
